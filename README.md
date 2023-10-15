@@ -12,4 +12,3 @@ constellations and even create custom ones of your own.
 ## Question #3
 ## Question #4
 While making the info 
-![Alt text](ab-img-1.png)
