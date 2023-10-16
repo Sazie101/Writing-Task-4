@@ -17,5 +17,5 @@ a section detailing the types of packages and services we offer and ended with a
 section that fills like a conclusion with an added hook that leads you straight into
 the contact page.
 ## Question #4
-While making the info page I was having trouble with how I was going to use the fonts
-to draw  
+While making the info page I was having trouble with how and what I was going to style
+to draw attention 
