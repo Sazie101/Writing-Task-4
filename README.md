@@ -10,6 +10,12 @@ more pages for a fake company. Me and my group descided to create a website
 about a company called "Mercury Media", a space company founded by astronauts
 that sells you stars and constellations and even create custom ones of your own.
 ## Question #3
-While I was making the info page I was thinking about 
+While I was making the info page I was thinking about the information and how the
+information and the photos to use. I had to order the information in a way that made
+sense so that it started with info about the company and it's origins, followed by 
+a section detailing the types of packages and services we offer and ended with a
+section that fills like a conclusion with an added hook that leads you straight into
+the contact page.
 ## Question #4
-While making the info page I was having trouble 
+While making the info page I was having trouble with how I was going to use the fonts
+to draw  
