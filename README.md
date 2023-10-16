@@ -10,6 +10,6 @@ pages for a fake company. Me and my group descided to create a website about a c
 called "Mercury Media", a space company founded by astronauts that sells you stars and
 constellations and even create custom ones of your own.
 ## Question #3
-
+While I was making the info page I was thinking about 
 ## Question #4
-While making the info 
+While making the info page I was having trouble 
