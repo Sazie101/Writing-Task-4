@@ -27,13 +27,12 @@ I had to look for the right photos to display next to the information, and on to
 I also had dificulties finding ones that had transparent backgrounds so that they blend in 
 with the page background and I had to also size them correctly so that they were big enough 
 to take up enough space so that there weren't alot of empty spots but not too big as to look
-weird and push outside the boundries of the container. In order to explain about the container I would 
-have to talk about container tags such as div, this along aside other ones like 
-section or article are used to contain pieces of information that will 
-be displayed on the page. The div is used alot because it doesn't have a specific usage 
-for it, it can be used to contain any type of information from paragraphs(<p><p></p>) to images(<img>) 
-as shown above. Inside the tage I added in a "container" class so that I can specify when I use CSS
-to edit and style my page which div I am trying to style(it looks like this <div class="container"></dive>).
+weird and push outside the boundries of the container. In order to explain about the container
+I would have to talk about container tags such as div, this along aside other ones like section
+or article are used to contain pieces of information that will be displayed on the page. The div
+is used alot because it doesn't have a specific usage for it, it can be used to contain any type 
+of information from paragraphs to images as shown above. Inside the tage I added in a "container" 
+class so that I can specify when I use CSS to edit and style my page which div I am trying to style.
 In CSS I used the line .container {width: min(100% - 40px, 1080px); margin-inline: auto;} to make the page 
 take up 40px less width of the screen from both sides and that helped make the page the page look better
 and better made it harder to work with images that you couldn't see the borders of.
