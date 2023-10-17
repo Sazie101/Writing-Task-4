@@ -34,7 +34,9 @@ be displayed on the page. The <div></div> is used alot because it doesn't have a
 for it, it can be used to contain any type of information from paragraphs(<p></p>) to images(<img>) 
 as shown above. Inside the tage I added in a "container" class so that I can specify when I use CSS
 to edit and style my page which div I am trying to style(it looks like this <div class="container"></dive>).
-In CSS I used the line .container {width: min(100% - 40px, 1080px); margin-inline: auto;}
+In CSS I used the line .container {width: min(100% - 40px, 1080px); margin-inline: auto;} to make the page 
+take up 40px less width of the screen from both sides and that helped make the page the page look better
+and better made it harder to work with images that you couldn't see the borders of.
 ## Question #5
 If I have the chance I would try to make a couple changes to make the page more appealing to 
 look at and more vibrant. I would personally make changes to the background and the color scheme
