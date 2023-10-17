@@ -28,7 +28,7 @@ I also had dificulties finding ones that had transparent backgrounds so that the
 with the page background and I had to also size them correctly so that they were big enough 
 to take up enough space so that there weren't alot of empty spots but not too big as to look
 weird and push outside the boundries of the container. In order to explain about the container I would 
-have to talk about container tags such as <div></div>, this along aside other ones like 
+have to talk about container tags such as "<div></div>", this along aside other ones like 
 <section></section> or <article><artivle> are used to contain pieces of information that will 
 be displayed on the page. The <div></div> is used alot because it doesn't have a specific usage 
 for it, it can be used to contain any type of information from paragraphs(<p></p>) to images(<img>) 
