@@ -18,4 +18,5 @@ section that fills like a conclusion with an added hook that leads you straight 
 the contact page.
 ## Question #4
 While making the info page I was having trouble with how and what I was going to style
-to draw attention 
+to draw attention, I mostly dealt with this problem Using different font sizes and slight
+color changes to draw the eyes into certain parts. I also 
