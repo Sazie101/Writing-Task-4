@@ -23,6 +23,7 @@ color changes to draw the eyes into certain parts. I had a hard making the anima
 the text I also had difficulties when it came to the photos.
 <img src="./assets/img/ab-img-1.png" alt="drawing" width="200" height="200"/>
 <img src="./assets/img/ab-img-2.png" alt="drawing" width="200" height="200"/>
+
 I had to look for the right photos to display next to the information, and on top of that 
 I also had dificulties finding ones that had transparent backgrounds so that they blend in 
 with the page background and I had to also size them correctly so that they were big enough 
