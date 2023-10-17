@@ -25,3 +25,4 @@ top of that I also had dificulties finding ones that had transparent backgrounds
 they blend in with the page background and I had to also size them correctly so that they 
 were big enough to take up enough space so that there weren't alot of empty spots but not 
 too big as to look weird and push outside the boundries of the container.
+## Question #5
