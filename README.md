@@ -24,5 +24,5 @@ the photos. I had to look for the right photos to display next to the informatio
 top of that I also had dificulties finding ones that had transparent backgrounds so that 
 they blend in with the page background and I had to also size them correctly so that they 
 were big enough to take up enough space so that there weren't alot of empty spots but not 
-too big as to look weird and push outside the boundries of the container.
+too big as to look weird and push outside the boundries of the container(more on that later).
 ## Question #5
