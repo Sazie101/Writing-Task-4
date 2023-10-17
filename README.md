@@ -23,12 +23,11 @@ color changes to draw the eyes into certain parts. I had a hard making the anima
 the text I also had difficulties when it came to the photos.
 <img src="./assets/img/ab-img-1.png" alt="drawing" width="200" height="200"/>
 <img src="./assets/img/ab-img-2.png" alt="drawing" width="200" height="200"/>
-I had to look for the right 
-photos to display next to the information, and on top of that I also had dificulties finding 
-ones that had transparent backgrounds so that they blend in with the page background and I 
-had to also size them correctly so that they were big enough to take up enough space so that 
-there weren't alot of empty spots but not too big as to look weird and push outside the 
-boundries of the container(more on that later).
+I had to look for the right photos to display next to the information, and on top of that 
+I also had dificulties finding ones that had transparent backgrounds so that they blend in 
+with the page background and I had to also size them correctly so that they were big enough 
+to take up enough space so that there weren't alot of empty spots but not too big as to look
+weird and push outside the boundries of the container(more on that later).
 ## Question #5
 If I have the chance I would try to make a couple changes to make the page more appealing to 
 look at and more vibrant. I would personally make changes to the background and the color scheme
