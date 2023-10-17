@@ -19,10 +19,16 @@ the contact page.
 ## Question #4
 While making the info page I was having trouble with how and what I was going to style
 to draw attention, I mostly dealt with this problem Using different font sizes and slight
-color changes to draw the eyes into certain parts. I also had difficulties when it came to
-the photos. I had to look for the right photos to display next to the information, and on 
-top of that I also had dificulties finding ones that had transparent backgrounds so that 
-they blend in with the page background and I had to also size them correctly so that they 
-were big enough to take up enough space so that there weren't alot of empty spots but not 
-too big as to look weird and push outside the boundries of the container(more on that later).
+color changes to draw the eyes into certain parts. I had a hard making the animations for 
+the text I also had difficulties when it came to the photos. I had to look for the right 
+photos to display next to the information, and on top of that I also had dificulties finding 
+ones that had transparent backgrounds so that they blend in with the page background and I 
+had to also size them correctly so that they were big enough to take up enough space so that 
+there weren't alot of empty spots but not too big as to look weird and push outside the 
+boundries of the container(more on that later).
 ## Question #5
+If I have the chance I would try to make a couple changes to make the page more appealing to 
+look at and more vibrant. I would personally make changes to the background and the color scheme
+as a whole to make sure the page is not so mundane and boring to look at. I would add more pictures
+and probably lessen the amount of paragraphs on the page and find better ways to organize the info
+into Parts. 
