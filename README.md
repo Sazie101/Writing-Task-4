@@ -19,4 +19,9 @@ the contact page.
 ## Question #4
 While making the info page I was having trouble with how and what I was going to style
 to draw attention, I mostly dealt with this problem Using different font sizes and slight
-color changes to draw the eyes into certain parts. I also 
+color changes to draw the eyes into certain parts. I also had difficulties when it came to
+the photos. I had to look for the right photos to display next to the information, and on 
+top of that I also had dificulties finding ones that had transparent backgrounds so that 
+they blend in with the page background and I had to also size them correctly so that they 
+were big enough to take up enough space so that there weren't alot of empty spots but not 
+too big as to look weird and push outside the boundries of the container.
