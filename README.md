@@ -42,4 +42,5 @@ If I have the chance I would try to make a couple changes to make the page more 
 look at and more vibrant. I would personally make changes to the background and the color scheme
 as a whole to make sure the page is not so mundane and boring to look at. I would add more pictures
 and probably lessen the amount of paragraphs on the page and find better ways to organize the info
-into Parts.
+into Parts. Lastly, I probably would either look into changing up or all together removing the 
+text animations.
